@@ -1,4 +1,6 @@
 # max-mix
+Figma
+https://www.figma.com/files/drafts?fuid=1031170013165018019
 # Изучение веб-разработки
 	https://developer.mozilla.org/ru/docs/Learn
 # 30 CSS селекторов
